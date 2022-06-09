@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cancer Prediction System</string>
+    <string name="gender">Gender</string>
+    <string name="smoking">Smoking</string>
+    <string name="yellowfingers">Yellow Fingers</string>
+    <string name="anxiety">Anxiety</string>
+    <string name="peerpressure">Peer Pressure</string>
+    <string name="chornicdisease">Chornic Disease</string>
+    <string name="fatigue">Fatigue</string>
+    <string name="allergy">Allergy</string>
+    <string name="wheezing">Wheezing</string>
+    <string name="alcoholconsuming">Alcohol Consuming</string>
+    <string name="coughing">Coughing</string>
+    <string name="shortnessofbreth">Shortness of Breth</string>
+    <string name="swallowingdifficulty">Swallowing Difficulty</string>
+    <string name="chestpain">Chest Pain</string>
+</resources>
